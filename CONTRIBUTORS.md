@@ -39,4 +39,4 @@
 | 34       | [Shubhika Shubhavee](https://github.com/shubhavee)        | Manipal Institute of Technology                                         | HTML/CSS, Javascript, React JS, Django, Python |
 | 35      | [naufal](https://github.com/fall-dawam)                      |                              | HTML, CSS, Java, Reactjs, Laravel, Vue                       |
 |36        | [Siddharth singh](https://github.com/siddrth-001)          |KIET group of Institution Ghaziabad |  Python, Html, C 
-|
+|37        | [Siddharth singh](https://github.com/siddrth-001)          |KIET group of Institution Ghaziabad |  Python, Html, C 
